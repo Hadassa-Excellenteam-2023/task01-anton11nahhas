@@ -46,4 +46,4 @@ c-tors and d-tors:
 
 additional notes:
 for the move constructor and assignment operator had to add noexcept since vs asked me to, 
-since no exceptions were thrown,, 
+since no exceptions were thrown,,,
