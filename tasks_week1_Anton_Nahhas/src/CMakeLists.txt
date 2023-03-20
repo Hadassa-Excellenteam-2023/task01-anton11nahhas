@@ -1,0 +1,1 @@
+target_sources (tasks_week1_Anton_Nahhas  PRIVATE "main.cpp"												"Vector.cpp")
