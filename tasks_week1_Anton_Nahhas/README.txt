@@ -45,5 +45,6 @@ c-tors and d-tors:
 
 
 additional notes:
-for the move constructor and assignment operator had to add noexcept since vs asked me to, 
+**for the move constructor and assignment operator had to add noexcept since vs asked me to, 
 since no exceptions were thrown,, 
+**test blocks are added in the main, in order to test a specific feature un-comment the block and run.
